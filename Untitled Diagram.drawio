@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T10:58:26.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="NncS9dmifmQCk7VdKnMc" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T11:08:59.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5NDzCIObYHRKR6VULi3D" version="12.9.4" type="github">
   <diagram id="tCEdVtV2yrPyuMiL_AUU" name="Page-1">
-    <mxGraphModel dx="1695" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="Комутатор 2" lucidchartObjectId="yBeLvzLdUMYs" id="kMEdtkKHNA9m5cFZhIJ4-67">
           <mxCell style="html=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=11;fontColor=#000000;spacing=3;strokeOpacity=100;" vertex="1" parent="1">
-            <mxGeometry x="370" y="226" width="72" height="24" as="geometry" />
+            <mxGeometry x="340" y="226" width="102" height="24" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="WDeLQESorm7B" id="kMEdtkKHNA9m5cFZhIJ4-68">
@@ -89,7 +89,7 @@
         </UserObject>
         <UserObject label="Комутатор3 КМА" lucidchartObjectId="6PeL-cOVopvk" id="kMEdtkKHNA9m5cFZhIJ4-81">
           <mxCell style="html=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=11;fontColor=#000000;spacing=3;strokeOpacity=100;" vertex="1" parent="1">
-            <mxGeometry x="670" y="190" width="96" height="36" as="geometry" />
+            <mxGeometry x="650" y="190" width="116" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="8QeL5plcT_X1" id="kMEdtkKHNA9m5cFZhIJ4-82">
