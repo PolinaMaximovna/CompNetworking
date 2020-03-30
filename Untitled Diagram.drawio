@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-03-30T10:12:13.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7W-_Ys5a_CG7s7TzS6YP" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-30T10:27:00.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ky12J4p2QdTDBfbPsVZ0" version="12.9.4" type="github">
   <diagram id="tCEdVtV2yrPyuMiL_AUU" name="Page-1">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="191" y="612" width="40" height="20" as="geometry" />
-        </mxCell>
         <UserObject label="Комутатор 2" lucidchartObjectId="yBeLvzLdUMYs" id="kMEdtkKHNA9m5cFZhIJ4-67">
           <mxCell style="html=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=11;fontColor=#000000;spacing=3;strokeOpacity=100;" vertex="1" parent="1">
             <mxGeometry x="370" y="226" width="72" height="24" as="geometry" />
@@ -71,9 +68,18 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="387" />
+              <mxPoint x="370" y="387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Комутатор1" lucidchartObjectId="bPeLyD93dd_p" id="kMEdtkKHNA9m5cFZhIJ4-79">
           <mxCell style="html=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=11;fontColor=#000000;spacing=3;strokeOpacity=100;" vertex="1" parent="1">
-            <mxGeometry x="442" y="262" width="96" height="24" as="geometry" />
+            <mxGeometry x="442" y="250" width="96" height="24" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="OPeLusnEbFE." id="kMEdtkKHNA9m5cFZhIJ4-80">
@@ -251,9 +257,18 @@
             <mxGeometry width="100" height="100" relative="1" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="574" y="680" />
+              <mxPoint x="660" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Комутатор5 КММ" lucidchartObjectId="h6eL3cCEds9L" id="kMEdtkKHNA9m5cFZhIJ4-115">
           <mxCell style="html=1;whiteSpace=wrap;shape=parallelogram;perimeter=parallelogramPerimeter;anchorPointDirection=0;fontSize=11;fontColor=#000000;spacing=3;strokeOpacity=100;" vertex="1" parent="1">
-            <mxGeometry x="574" y="550" width="120" height="36" as="geometry" />
+            <mxGeometry x="574" y="538" width="120" height="36" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="O6eLsNuF2dHA" id="kMEdtkKHNA9m5cFZhIJ4-116">
@@ -322,13 +337,109 @@
             <mxGeometry x="718" y="646" width="48" height="24" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" lucidchartObjectId="99eL1YtHoait" id="kMEdtkKHNA9m5cFZhIJ4-128">
-          <mxCell style="html=1;jettySize=18;fontSize=11;strokeOpacity=100;rounded=1;arcSize=0;edgeStyle=elbowEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.17666666666666692;exitY=1.0166666666666666;exitPerimeter=1;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-115">
-            <mxGeometry width="100" height="100" relative="1" as="geometry">
-              <mxPoint x="766" y="682" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-131" value="сетев.пр." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="680" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-152" value="Комутатор6 КАТМА" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="490" width="148" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-153" value="" style="endArrow=classic;html=1;exitX=0.351;exitY=1.086;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="384" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-161" value="пк1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-164" value="пк2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-165" value="пк4" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="580" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-166" value="пк3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="478" y="430" width="41" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-167" value="" style="endArrow=classic;html=1;exitX=0.662;exitY=1.034;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-168" value="пк5" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="618" width="42" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-169" value="пк6" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-170" value="" style="endArrow=classic;html=1;exitX=0.939;exitY=0.397;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="670" as="sourcePoint" />
+            <mxPoint x="520" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-171" value="сетев.пр" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="519" y="490" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-172" value="" style="endArrow=classic;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-79" target="kMEdtkKHNA9m5cFZhIJ4-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="80" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-173">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-173" value="Комутатор7" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-174" value="" style="endArrow=classic;html=1;exitX=0.392;exitY=-0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="470" as="sourcePoint" />
+            <mxPoint x="70" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-175" value="пк1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="218" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-176" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMEdtkKHNA9m5cFZhIJ4-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="290" as="sourcePoint" />
+            <mxPoint x="110" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-177" value="пк2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMEdtkKHNA9m5cFZhIJ4-180" value="сет.пр." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="268" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
